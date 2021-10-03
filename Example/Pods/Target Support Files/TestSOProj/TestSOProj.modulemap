@@ -1,0 +1,6 @@
+framework module TestSOProj {
+  umbrella header "TestSOProj-umbrella.h"
+
+  export *
+  module * { export * }
+}

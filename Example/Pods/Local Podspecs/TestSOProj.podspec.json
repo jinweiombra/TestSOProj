@@ -1,0 +1,24 @@
+{
+  "name": "TestSOProj",
+  "version": "0.1.0",
+  "summary": "TestSOProj.",
+  "description": "TestSOProj Hello",
+  "homepage": "https://baidu.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangjinwei": "1598212126@qq.com"
+  },
+  "source": {
+    "git": "git remote add origin git@github.com:jinweiombra/TestSOProj.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "TestSOProj/Classes/**/*",
+  "swift_version": "5.0"
+}
